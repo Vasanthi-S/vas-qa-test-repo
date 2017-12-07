@@ -1,3 +1,3 @@
 # vas-qa-test-repo
-Multiple Git settings testing repo - edited.
+Multiple Git settings testing repo - edited2.
 
